@@ -1,1 +1,1 @@
-# python
+# Python code and mini projects
